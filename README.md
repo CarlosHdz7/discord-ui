@@ -1,5 +1,7 @@
 ## Discord-Inspired Dashboard with Vite + Typescript + Tailwind CSS
 
+![Vercel Status](https://img.shields.io/badge/vercel-passing-green)
+
 ### Live Demo
 
 [Click here](https://discord-ui-seven.vercel.app/)
